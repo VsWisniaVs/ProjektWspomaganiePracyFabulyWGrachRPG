@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # 🧙‍♂️ System wspomagania projektowania fabuły RPG
 
 Projektuj nieliniowe przygody, złożone postacie i dramatyczne zwroty akcji szybciej niż kiedykolwiek wcześniej. Ten system został zaprojektowany z myślą o twórcach RPG, którzy chcą tchnąć życie w swoje światy i oddać graczom pełnię wyboru.
