@@ -1,0 +1,41 @@
+site_name: 'RPG-pedia: Kompletny Przewodnik po Grach Fabularnych'
+site_url: '' 
+site_author: 'Jakub Waśniowski & Jakub Gorczyca'
+site_description: 'Projekt kursowy - przewodnik po mechanikach, historii i gatunkach gier RPG.'
+
+
+theme:
+  name: material
+  language: pl
+  logo: assets/logo.svg 
+  favicon: assets/favicon.png 
+  palette:
+ 
+    
+scheme: default
+    primary: indigo
+    accent: blue
+    toggle:
+      icon: material/brightness-7
+      name: Przełącz na tryb ciemny
+scheme: slate
+  primary: black
+  accent: indigo
+  toggle:
+    icon: material/brightness-4
+    name: Przełącz na tryb jasny
+features:
+navigation.tabs
+navigation.top
+search.suggest
+search.highlight
+
+nav:
+  
+-'Strona Główna': 'index.md'
+
+markdown_extensions:
+  
+admonition
+pymdownx.details
+pymdownx.superfences
