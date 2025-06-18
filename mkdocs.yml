@@ -1,0 +1,57 @@
+#super zmiana
+site_name: 'RPG-pedia: Kompletny Przewodnik po Grach Fabularnych'
+site_url: '' 
+site_author: 'Jakub Waśniowski & Jakub Gorczyca'
+site_description: 'Projekt kursowy - przewodnik po mechanikach, historii i gatunkach gier RPG.'
+
+
+theme:
+  name: material
+  language: pl
+  logo: assets/logo.svg 
+  favicon: assets/favicon.png 
+  
+  
+  palette:
+    - scheme: default 
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Przełącz na tryb ciemny
+    - scheme: slate 
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Przełącz na tryb jasny
+  
+  features:
+    - navigation.tabs 
+    - navigation.top 
+    - navigation.indexes 
+    - search.suggest 
+    - search.highlight 
+    - content.code.copy 
+
+nav:
+  - 'Strona Główna': 'index.md'
+  - 'O Projekcie': 'o_projekcie.md'
+  - 'Teoria Gier RPG':
+      - 'Wprowadzenie do sekcji': 'teoria/index.md' 
+      - 'Historia i Ewolucja': 'teoria/historia.md'
+      - 'Anatomia Gry RPG': 'teoria/anatomia.md'
+      - 'Rozwój Postaci i Drzewka Umiejętności': 'teoria/rozwoj_postaci.md'
+      - 'Fabuła, Świat i Postacie NPC': 'teoria/fabula_i_swiat.md'
+  - 'Przykłady - Analiza Gier':
+      - 'Wprowadzenie do analiz': 'przykłady/index.md'
+      - 'Analiza: Wiedźmin 3': 'przykłady/wiedzmin3.md'
+      - 'Analiza: Baldur''s Gate 3': 'przykłady/baldursgate3.md'
+      - 'Analiza: Skyrim': 'przykłady/skyrim.md'
+  - 'Autorzy': 'autorzy.md'
+
+markdown_extensions:
+  - admonition 
+  - pymdownx.details 
+  - pymdownx.superfences 
+  - attr_list 
