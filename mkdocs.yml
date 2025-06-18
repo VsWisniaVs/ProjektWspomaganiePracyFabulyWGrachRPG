@@ -1,6 +1,6 @@
 #super zmiana
 site_name: 'RPG-pedia: Kompletny Przewodnik po Grach Fabularnych'
-site_url: 'vswisniavs.github.io/ProjektWspomaganiePracyFabulyWGrachRPG' 
+site_url: '' 
 site_author: 'Jakub Waśniowski & Jakub Gorczyca'
 site_description: 'Projekt kursowy - przewodnik po mechanikach, historii i gatunkach gier RPG.'
 
@@ -36,18 +36,18 @@ theme:
 
 nav:
   - 'Strona Główna': 'index.md'
-  - 'O Projekcie': 'o_projekcie.md'
   - 'Teoria Gier RPG':
-      - 'Wprowadzenie do sekcji': 'teoria/index.md' 
-      - 'Historia i Ewolucja': 'teoria/historia.md'
-      - 'Anatomia Gry RPG': 'teoria/anatomia.md'
-      - 'Rozwój Postaci i Drzewka Umiejętności': 'teoria/rozwoj_postaci.md'
-      - 'Fabuła, Świat i Postacie NPC': 'teoria/fabula_i_swiat.md'
+    - 'Wprowadzenie do sekcji': 'teoria/index.md' 
+    - 'Historia i Ewolucja': 'teoria/historia.md'
+    - 'Podgatunku i gatunki': 'teoria/podgatunki.md'
+    - 'Anatomia Gry RPG': 'teoria/anatomia.md'
+    - 'Rozwój Postaci i Drzewka Umiejętności': 'teoria/rozwoj_postaci.md'
+    - 'Fabuła, Świat i Postacie NPC': 'teoria/fabula_i_swiat.md'
   - 'Przykłady - Analiza Gier':
-      - 'Wprowadzenie do analiz': 'przykłady/index.md'
-      - 'Analiza: Wiedźmin 3': 'przykłady/wiedzmin3.md'
-      - 'Analiza: Baldur''s Gate 3': 'przykłady/baldursgate3.md'
-      - 'Analiza: Skyrim': 'przykłady/skyrim.md'
+    - 'Wprowadzenie do analiz': 'przykłady/index.md'
+    - 'Analiza: Wiedźmin 3': 'przykłady/wiedzmin3.md'
+    - 'Analiza: Baldur''s Gate 3': 'przykłady/baldursgate3.md'
+    - 'Analiza: Skyrim': 'przykłady/skyrim.md'
   - 'Autorzy': 'autorzy.md'
 
 markdown_extensions:
@@ -57,4 +57,6 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg 
   - pymdownx.superfences 
-  - attr_list 
+  - attr_list
+  - pymdownx.tabbed:      
+      alternate_style: true  

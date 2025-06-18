@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Nasza Drużyna i Podział Prac
 
 Witaj na stronie poświęconej autorom tego przewodnika. Poniżej przedstawiamy naszą dwuosobową drużynę oraz szczegółowy podział zadań, który realizowaliśmy w trakcie tworzenia RPG-pedii.
