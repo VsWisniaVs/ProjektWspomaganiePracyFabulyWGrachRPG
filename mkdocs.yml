@@ -1,5 +1,5 @@
 #super zmiana
-site_name: 'RPG-pedia: Kompletny Przewodnik po Grach Fabularnych'
+site_name: 'Kompletny Przewodnik po Grach Fabularnych'
 site_url: '' 
 site_author: 'Jakub Waśniowski & Jakub Gorczyca'
 site_description: 'Projekt kursowy - przewodnik po mechanikach, historii i gatunkach gier RPG.'
@@ -60,3 +60,5 @@ markdown_extensions:
   - attr_list
   - pymdownx.tabbed:      
       alternate_style: true  
+extra_css:
+  - stylesheets/extra.css
