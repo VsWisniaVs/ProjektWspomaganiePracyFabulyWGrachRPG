@@ -35,7 +35,7 @@ Przechowuj i wizualizuj gałęzie fabularne z poziomu edytora.
 
 ## 📚 Spis treści
 
-- [Wprowadzenie](wprowadzenie.md)
+- [Wprowadzenie](teoria/index.md)
 - [Tworzenie postaci](postacie.md)
 - [Generowanie wątków](watki.md)
 - [Zarządzanie lokacjami](lokacje.md)

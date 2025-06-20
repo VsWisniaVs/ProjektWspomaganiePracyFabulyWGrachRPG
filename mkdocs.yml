@@ -44,10 +44,11 @@ nav:
     - 'Rozwój Postaci i Drzewka Umiejętności': 'teoria/rozwoj_postaci.md'
     - 'Fabuła, Świat i Postacie NPC': 'teoria/fabula_i_swiat.md'
   - 'Przykłady - Analiza Gier':
-    - 'Wprowadzenie do analiz': 'przykłady/index.md'
-    - 'Analiza: Wiedźmin 3': 'przykłady/wiedzmin3.md'
-    - 'Analiza: Baldur''s Gate 3': 'przykłady/baldursgate3.md'
-    - 'Analiza: Skyrim': 'przykłady/skyrim.md'
+    - 'Wprowadzenie do analiz': 'przyklady/index.md'
+    - 'Analiza: Wiedźmin 3': 'przyklady/wiedzmin3.md'
+    - 'Analiza: Baldur''s Gate 3': 'przyklady/baldursgate3.md'
+    - 'Analiza: Skyrim': 'przyklady/skyrim.md'
+    - 'Analiza: Elder Ring': 'przyklady/elderring.md'
   - 'Autorzy': 'autorzy.md'
 
 markdown_extensions:
