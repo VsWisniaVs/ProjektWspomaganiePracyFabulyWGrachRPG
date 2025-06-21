@@ -5,6 +5,7 @@ Projekt zespołowy zrealizowany w ramach przedmiotu *Systemy Wspomagania Pracy Z
 Gry RPG to jeden z najbardziej złożonych i narracyjnie rozbudowanych gatunków — wymagają wielowątkowych scenariuszy, głębokich postaci oraz logicznych zależności między decyzjami gracza a konsekwencjami fabularnymi. 
 
 To właśnie w RPG gracz może porzucić codzienność i wkroczyć w świat, gdzie każde słowo ma wagę, a każdy wybór niesie konsekwencje. Ale zanim pojawi się pierwsza linia dialogu czy pierwszy rzut kością, ktoś musi ten świat zbudować — krok po kroku, warstwa po warstwie.
+
 ---
 
 ## 🚀 Dlaczego warto?
