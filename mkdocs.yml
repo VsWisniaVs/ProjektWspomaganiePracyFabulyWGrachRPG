@@ -50,6 +50,7 @@ nav:
     - 'Analiza: Skyrim': 'przyklady/skyrim.md'
     - 'Analiza: Elder Ring': 'przyklady/elderring.md'
   - 'Autorzy': 'autorzy.md'
+  - Historia i ewolucja: historia-i-ewolucja.md
 
 markdown_extensions:
   - admonition 
