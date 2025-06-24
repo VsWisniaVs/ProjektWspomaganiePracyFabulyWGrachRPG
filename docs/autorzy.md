@@ -4,7 +4,7 @@ hide:
 ---
 # Nasza Drużyna i Podział Prac
 
-Witaj na stronie poświęconej autorom tego przewodnika. Poniżej przedstawiamy naszą dwuosobową drużynę oraz szczegółowy podział zadań, który realizowaliśmy w trakcie tworzenia RPG-pedii.
+Witaj na stronie poświęconej autorom tego przewodnika. Poniżej przedstawiamy naszą dwuosobową drużynę, w której realizowaliśmy projekt tworzenia RPG-pedii.
 
 ---
 
@@ -23,19 +23,3 @@ Witaj na stronie poświęconej autorom tego przewodnika. Poniżej przedstawiamy 
 :octicons-mark-github-16: [Profil na GitHub](https://github.com/JKG721)
 
 ---
-
-## Podział Prac
-
-Poniższa lista przedstawia ogólny podział odpowiedzialności za kluczowe sekcje projektu.
-
-#### :octicons-people-24: Prace Wspólne
-
-* TEST
-
-#### :octicons-person-24: Zadania Indywidualne: Jakub Waśniowski
-
-* TEST
-
-#### :octicons-person-24: Zadania Indywidualne: Jakub Gorczyca
-
-* TEST
