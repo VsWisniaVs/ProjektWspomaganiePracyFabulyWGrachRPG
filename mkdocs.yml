@@ -1,0 +1,64 @@
+#super zmiana
+site_name: 'Kompletny Przewodnik po Grach Fabularnych'
+site_url: '' 
+site_author: 'Jakub Waśniowski & Jakub Gorczyca'
+site_description: 'Projekt kursowy - przewodnik po mechanikach, historii i gatunkach gier RPG.'
+
+
+theme:
+  name: material
+  language: pl
+  logo: assets/logo.svg 
+  favicon: assets/favicon.png 
+  
+  
+  palette:
+    - scheme: default 
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Przełącz na tryb ciemny
+    - scheme: slate 
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Przełącz na tryb jasny
+  
+  features:
+    - navigation.tabs 
+    - navigation.top 
+    - navigation.indexes 
+    - search.suggest 
+    - search.highlight 
+    - content.code.copy 
+
+nav:
+  - 'Strona Główna': 'index.md'
+  - 'Teoria Gier RPG':
+    - 'Wprowadzenie do sekcji': 'teoria/index.md' 
+    - Historia i ewolucja: 'teoria/historia-i-ewolucja.md'
+    - 'Podgatunku i gatunki': 'teoria/podgatunki.md'
+    - 'Rozwój Postaci i Drzewka Umiejętności': 'teoria/rozwojpostaci.md'
+  - 'Przykłady - Analiza Gier':
+    - 'Wprowadzenie do analiz': 'przyklady/index.md'
+    - 'Analiza: Wiedźmin 3': 'przyklady/wiedzmin.md'
+    - 'Analiza: Skyrim': 'przyklady/skyrim.md'
+    - 'Analiza: Elder Ring': 'przyklady/elderring.md'
+    - 'Analiza: Baldur`s Gate 3': 'przyklady/baldursgate3.md'
+  - 'Autorzy': 'autorzy.md'
+
+
+markdown_extensions:
+  - admonition 
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg 
+  - pymdownx.superfences 
+  - attr_list
+  - pymdownx.tabbed:      
+      alternate_style: true  
+extra_css:
+  - stylesheets/extra.css
