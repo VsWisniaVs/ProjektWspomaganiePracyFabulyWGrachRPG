@@ -1,5 +1,7 @@
 🎲 **Analiza: Baldur’s Gate 3 – Rewolucja w adaptacji RPG stołowego**  
 
+
+
 <img src="https://images.gog-statics.com/3ed742bb69a110007643c0ca14e3a488c6dc66a3a432e839654320a5a7400953_product_card_v2_mobile_slider_639.jpg" alt="Łukasz obserwuje przedpole Faerûn" />
 
 Źródło: Larian Studios – Krajobraz kampanii i interfejs gry  
