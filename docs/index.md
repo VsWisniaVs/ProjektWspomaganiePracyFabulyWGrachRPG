@@ -1,8 +1,4 @@
----
-hide:
-  - navigation
----
-# 🧙‍♂️ System wspomagania projektowania fabuły RPG
+# 🧙‍♂️ Fabuły gier RPG wprowadzenie
 
 Projekt zespołowy zrealizowany w ramach przedmiotu *Systemy Wspomagania Pracy Zespołowej*, mający na celu stworzenie funkcjonalnego systemu wspierającego proces tworzenia i zarządzania fabułą w grach RPG.
 
@@ -39,10 +35,9 @@ Interaktywna wizualizacja ścieżek fabularnych w formie drzewa decyzyjnego. Poz
 
 ## 📚 Spis treści
 
-- [Wprowadzenie](teoria/index.md)
-- [Tworzenie postaci](postacie.md)
-- [Generowanie wątków](watki.md)
-- [Zarządzanie lokacjami](lokacje.md)
+- [Wprowadzenie](teoria/historia-i-ewolucja.md)
+- [Tworzenie postaci](teoria/rozwojpostaci.md)
+- [Przykłady](przyklady/index.md)
 
 ---
 
