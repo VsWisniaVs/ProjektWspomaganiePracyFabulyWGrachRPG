@@ -40,7 +40,7 @@ nav:
     - 'Wprowadzenie do sekcji': 'teoria/index.md' 
     - Historia i ewolucja: 'teoria/historia-i-ewolucja.md'
     - 'Podgatunku i gatunki': 'teoria/podgatunki.md'
-    - 'Rozwój Postaci i Drzewka Umiejętności': 'teoria/rozwoj_postaci.md'
+    - 'Rozwój Postaci i Drzewka Umiejętności': 'teoria/rozwojpostaci.md'
   - 'Przykłady - Analiza Gier':
     - 'Wprowadzenie do analiz': 'przyklady/index.md'
     - 'Analiza: Wiedźmin 3': 'przyklady/wiedzmin.md'
